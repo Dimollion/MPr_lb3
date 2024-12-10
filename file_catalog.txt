@@ -1,0 +1,14 @@
+892;Led Zeppelin - Kashmir;Rock;400;
+880;Aerosmith - Dream On;Rock;150;
+168;Frank Sinatra - Strangers In The Night;Jazz;175.5;
+428;The Killers - Mr. Brightside;Indie;225.8;
+243;Radiohead - Creep;Rock;500.5;
+698;Foster the People - Pumped Up Kicks;Indie;333;
+217;Pixies - Where is my mind;Indie;170.75;
+784;Ray Charles - Hit the Road Jack;Jazz;280.3;
+783;Louis Armstrong - What A Wonderful World;Jazz;50.1;
+789;The Beatles - Let It Be;Rock;123.45;
+483;James Brown - I Got You (I Feel Good);Jazz;300.54;
+375;Deep Purple - Smoke on the Water;Rock;100.29;
+916;Oasis - Wonderwall;Rock;322.6;
+378;The Strokes - Reptilia;Indie;550;
